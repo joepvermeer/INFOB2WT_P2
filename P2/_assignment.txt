@@ -1,0 +1,53 @@
+Pages -> 
+
+    - main page
+    - about director
+    - about actors          
+    - photos
+    - reviews (?)
+
+    * must have links between and to external pages
+    * must have one table
+    * must be optimized for search engines
+    * must have consistent layout & colors
+    * must render correctly in current Chrome & Firefox versions
+
+Style ->
+
+    - several styles for links
+    - several styles for text
+    - styles for table elements
+    - cascading styles through selector specificity (?)
+    - style inheritance
+
+    * define styles in a seperate CSS file
+    * follow HTML5 rules of W3C Markup Validation Service and CSS3 rules of W3C CSS Validation Service
+    * do not use any deprecated HTML elements or attributes
+
+Accessibility ->
+
+    - keyboard compatibility        
+    - text-to-speech
+    - clear layout and design
+    - customizable text
+    - understandable content
+
+Design guidelines follow for ->
+
+    - images
+    - content positioning
+    - units of measurement
+
+Coding style ->
+
+    - use indentation for nested HTML elements
+    - use lower case names for HTML elements and attributes
+    - use quotation marks for attribute values
+    - use alt attribute with img elements
+    - use meaningful names for CSS classes, follow BEM naming convention
+    - long CSS rules must occupy multiple lines, short ones can be written on one
+    - use lower case file names
+
+
+
+
