@@ -4,9 +4,11 @@
 box-sizing: border-box;
 }
 
+/*Hides scroll bar on the right hand side*/  
 ::-webkit-scrollbar {
     display: none;
 }
+
 
 /* Style the body */
 body {
@@ -18,9 +20,9 @@ margin: 0;
 .header {
 padding: 80px;
 text-align: center;
-background: rgba(88, 88, 88, 0.927);
 color: white;
-background-image: url("Homepage-header-image.jpg");
+background: rgba(88, 88, 88, 0.927);
+background-image: url(../Images/Homepage-header-image.jpg);
 background-blend-mode: multiply;
 }
 
