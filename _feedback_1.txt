@@ -1,0 +1,48 @@
+FIRST IMPRESSION
+%	Well file managment is not what you are good at.
+%    I will really need you to fix that, please ask aTA for help on referencing between files and between folders.
+%    It will otherwise become a problem for assignment 3. Maybe even 2 already.
+    So your Responsive design is not great. I do remmeber us trying to fix the image problem.
+    But this did not get better. hmmm
+
+Relevant W3 schools validator
+    Please run you HTML files through W3 checker.
+    https://validator.w3.org/nu/#file
+    mistakes could have been easily removed.
+
+ABREVIATIONS
+    GENERAL            		: G
+    HTML           			: HTML 
+    CSS                		: CSS 
+    ACCESABILITY        	: A
+    RESPONSIVE DESIGN   	: RD
+    MINUS POINTS       		: -
+
+MUST HAVES
+	(-)	HTML	 frequent use of Div. There are other tags you can use, 			and you can avoid using a tag altogether if you structure your css well.
+	(-)	CSS	RD      bad RD. Mixed use of Pixel and percentager leading to a bad time.
+                    percentage usage should be your default. Pixel usage should be for extremes or media queries
+    (+) CSS RD      We failed you as TA's. Making it a point to give better direction. My input would not have leadyou towards a better grad my apologies for this.
+                    I avoided trying to tell you to redo your CSS, and i should not have.
+    (-) HTML        div class="containerwrapper"> this is the perfect momemnt for <Article>
+                    <div class="textcontainer"> and this is a perfect moment for <section>
+    (-) CSS         only usage of classes. This probably cost you a lot of time. But referencing tage may have been faster.
+                    Example A :.all-sections why not use the HTML tag <sections> and refer to all of them. not with a class name.
+    (-) CSS         No attempt at BEM naming convention.
+    (-) a           Due to lack of <p>, <Section> and <Article>. More <p> and less <br>
+    (-) HTML        not the correct use of a table.
+MAINTAIN GOOD CODING STYLE
+    Well...... all the files in one are hmmmmm.
+    For the rest it is well done.
+PROCEDURE
+
+OTHER  
+   
+COMMENTS
+    There is a lot to learn. There is so much knowledge in this course that it is hard.
+    If you follow the lectures, a lot of these minor mistake can be avoided.
+    And oftern the extra hour of the lecture can save you time in coding, because you learnfaster ways to do things.
+
+    All in all for a first website builtthrough CSS and HTML well done.
+    Please keep asking questions in tutor rooms, we can also give quick feed back that coul save you effort EARLY in your project.  
+    refactoring is always costly.
